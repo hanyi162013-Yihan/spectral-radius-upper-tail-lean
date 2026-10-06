@@ -1,0 +1,16 @@
+name = "spectralRadiusUpperTail"
+version = "0.1.0"
+defaultTargets = ["SpectralRadiusUpperTail"]
+
+[[lean_lib]]
+name = "SpectralRadiusUpperTail"
+
+[[require]]
+name = "mathlib"
+git = "https://github.com/leanprover-community/mathlib4.git"
+rev = "db584cd6d46c92f209a44c0f1c829460d327499d"
+
+[[require]]
+name = "GinibreCorrelationIdentities"
+git = "https://github.com/hanyi162013-Yihan/ginibre-correlation-identities-lean.git"
+rev = "403bab996ebc6b8331531bdf12b7a8c84bf61a4d"

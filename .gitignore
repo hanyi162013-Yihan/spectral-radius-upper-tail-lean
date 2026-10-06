@@ -1,0 +1,11 @@
+.lake/
+*.olean
+*.ilean
+*.olean.private
+*.olean.server
+*.trace
+__pycache__/
+.DS_Store
+verification/*.log
+verification-ci/
+axioms.log

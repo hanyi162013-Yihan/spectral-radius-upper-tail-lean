@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "Please cite the accompanying paper when using this formalization."
+title: "Spectral-radius upper-tail deviations: Lean formalization"
+type: software
+authors:
+  - family-names: Han
+    given-names: Yi
+url: "https://github.com/hanyi162013-Yihan/spectral-radius-upper-tail-lean"
+preferred-citation:
+  type: article
+  title: "Large deviations of the spectral radius of iid subgaussian random matrices"
+  authors:
+    - family-names: Han
+      given-names: Yi
+  year: 2026
+  journal: "arXiv preprint arXiv:2610.05498"
+  url: "https://arxiv.org/abs/2610.05498"
